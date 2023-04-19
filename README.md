@@ -1,3 +1,3 @@
-# Group6-project
+# GoFastico: Food Delivery Website
 
-This is our Software Engineering project by Epoka University students.
+GoFastico is a food delivery website that connects hungry customers with their favorite local restaurants. 
